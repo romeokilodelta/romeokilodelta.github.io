@@ -2,7 +2,7 @@
 layout: page
 title: Academic
 ---
-My resume can be found [here](https://github.com/adivijaykumar/resume/blob/master/main.pdf). (A more formal page is under construction)
+My resume can be found [here](https://github.com/adivijaykumar/resume/blob/master/main.pdf). (A more formal page is [perennially] under construction)
 
 # Resources
 
