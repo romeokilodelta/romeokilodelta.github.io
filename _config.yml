@@ -24,6 +24,7 @@ description: Aditya V's Blog!
 # List of links in the navigation bar
 navbar-links:
   Blog: ""
+   - All Posts: "all"
   About: "about"
   Academic: "academic"
   Non-Academic: "nonacademic"
