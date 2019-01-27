@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Academic
+bigimg: "/img/phd091418s.gif"
 ---
 My resume can be found [here](https://github.com/adivijaykumar/resume/blob/master/main.pdf). (A more formal page is [perennially] under construction)
 
