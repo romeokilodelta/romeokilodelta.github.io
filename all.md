@@ -7,7 +7,7 @@ bigimg: "/img/cover.jpg"
 ---
 
 <div class="posts-list">
-  {% for post in paginator.posts %}
+  {% for post in site.tags.Writings %}
   <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
     <h2 class="post-title">{{ post.title }}</h2>
