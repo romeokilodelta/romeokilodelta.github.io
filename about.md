@@ -3,6 +3,7 @@ title: About
 layout: page
 ---
 
+![Profile Image]({{ site.url }}/{{ site.picture }})
 
 My name is Aditya Vijaykumar.
 
