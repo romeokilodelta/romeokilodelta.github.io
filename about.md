@@ -1,17 +1,46 @@
 ---
+title: About
 layout: page
-title: About Me
-
 ---
+![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-My name is Aditya Vijaykumar.
+<p>Lorem Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-- I was born in **Perinthalmanna, Kerala** in 1995, but have lived in **Pune, Maharashtra** all my life. I am deeply fond of Pune and Kerala and feel a connect to both places.
+<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-- I currently reside in the city of **Bengaluru, Karnataka**, where I am pursuing my PhD in Physics at the [International Centre for Theoretical Sciences](https://icts.res.in/) (ICTS). If you are ever in Bengaluru and want to break away from the hustle and bustle of the city, I suggest you visit our campus to enjoy our hospitality and also learn about some interesting science being done. ICTS also has a plethora of public events which you could be interested in.
+<h2>Skills</h2>
 
-- I was an undergraduate student at **Birla Institute of Technology and Science (BITS), Pilani** pursuing **Physics** and **Mechanical Engineering** as my majors. Pilani was a fantastic place, and it made me a better human being. 
+<ul class="skill-list">
+	<li>HTML - Jade - Haml - Erb</li>
+	<li>Responsive (Mobile First)</li>
+	<li>CSS (Stylus, Sass, Less)</li>
+	<li>Css Frameworks (Bootstrap, Foundation)</li>
+	<li>Javascript (Design Patterns, Testes)</li>
+	<li>NodeJS</li>
+	<li>AngularJS - ReactJS</li>
+	<li>Grunt - Gulp - Yeoman</li>
+	<li>Git</li>
+	<li>PHP</li>
+	<li>Python</li>
+	<li>MySQL - MongoDB</li>
+	<li>Scrum and Kanban</li>
+	<li>TDD e Continuous Integration</li>
+</ul>
 
-- Physics, specifically aspects of theoretical physics such as General Relativity and Quantum Theory of Fields, interest me quite a bit. Currently, I am working on some problems in Gravitational Waves. Check my [academic page](https://adivijaykumar.github.io/academic/) for more.
+<h2>Projects</h2>
 
-- I like reading, writing, listening to poetry (very recently), quizzing, and thinking about art of cinema and music. Check my [non-academic page](https://adivijaykumar.github.io/nonacademic/) for more.
+<ul>
+	<li><a href="https://github.com/">Lorem Lorem</a></li>
+	<li><a href="https://github.com/">Ipsum Dolor</a></li>
+	<li><a href="https://github.com/">Dolor Lorem</a></li>
+</ul>
