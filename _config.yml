@@ -1,6 +1,6 @@
 # main text of home
 name: Aditya Vijaykumar
-bio: Physicist and Research Scholar at [ICTS-TIFR](icts.res.in)
+bio: Physicist working on Gravitational Waves
 
 # twitter summary info
 description: Aditya Vijaykumar - Physicist working on Gravitational Waves
@@ -12,8 +12,8 @@ picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
-resume: true
-resume-external: true
+resume: false
+resume-external: false
 resume-url: https://google.com/?q=my+resume
 
 url: https://adivijaykumar.github.io
@@ -55,7 +55,7 @@ email: aditya.Vijaykumar@icts.res.in
 authors:
   johndoe:
     name: Aditya Vijaykumar
-    bio: Physicist currently working on Gravitational Waves
+    bio: Physicist working on Gravitational Waves
     external-image: false
     picture: assets/images/profile.jpg
     twitter: adivijaykumar
