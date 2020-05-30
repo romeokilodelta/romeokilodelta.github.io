@@ -50,7 +50,18 @@ github: adivijaykumar
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: aditya.Vijaykumar@icts.res.in
+email: aditya.vijaykumar@icts.res.in
+
+# if you don't have any scientific social links below, comment the line
+scholar: cLlRcPYAAAAJ
+# researchgate: myresearchgate
+# mendeley: mymendeley
+# pubmed: mypubmed
+# orcid: myorcid
+# impactstory: myimpactstory
+# figshare: myfigshare
+# slideshare: myslideshare
+speakerdeck: vivekkrish
 
 authors:
   johndoe:
@@ -80,7 +91,7 @@ pagination:
 about: true
 # blog: true
 research: true
-publications: true
+#publications: true
 resources: true
 
 
