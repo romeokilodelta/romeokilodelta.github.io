@@ -11,15 +11,11 @@ A list of my papers can be found below. I have done a twitter thread accessible 
 
 ## Short Authorlist Papers
 
-- **Aditya Vijaykumar** MV Saketh, Sumit Kumar, Parameswaran Ajith, Tirthankar Roy Choudhury.
-
-	*Probing the cosmological large-scale structure using gravitational-wave observations*
+- **Aditya Vijaykumar**, MV Saketh, Sumit Kumar, Parameswaran Ajith, Tirthankar Roy Choudhury, *Probing the cosmological large-scale structure using gravitational-wave observations*.
 
 	[arXiv](https://arxiv.org/abs/2005.01111), [Twitter Thread](https://twitter.com/alsogoesbyV/status/1257520110853476358), [Astrobites Article](https://astrobites.org/2020/05/07/binary-black-holes-tangled-up-in-the-cosmic-web/).
 
-- **Aditya Vijaykumar**, Shasvath J. Kapadia, Parameswaran Ajith
-
-	*Constraints on the time variation of the gravitational constant using gravitational wave observations of binary neutron stars*
+- **Aditya Vijaykumar**, Shasvath J. Kapadia, Parameswaran Ajith, *Constraints on the time variation of the gravitational constant using gravitational wave observations of binary neutron stars*.
 
 	[arXiv](https://arxiv.org/abs/2003.12382), [Twitter Thread](https://twitter.com/alsogoesbyV/status/1244833975920513024).
 
@@ -29,6 +25,6 @@ A list of my papers can be found below. I have done a twitter thread accessible 
 
 ## Other Papers
 
-- P. Virtanen *et al.* (including **Aditya Vijaykumar** as *SciPy 1.0 Contributor*)
-	*SciPy 1.0--Fundamental Algorithms for Scientific Computing in Python*
+- P. Virtanen *et al.* (including **Aditya Vijaykumar** as *SciPy 1.0 Contributor*), *SciPy 1.0--Fundamental Algorithms for Scientific Computing in Python*.
+
 	[arXiv](https://arxiv.org/abs/1907.10121), [Journal](https://www.nature.com/articles/s41592-019-0686-2).
