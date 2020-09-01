@@ -3,16 +3,12 @@ title: Resources
 layout: page
 ---
 
-![Profile Image]({{ site.url }}/{{ site.picture }})
+## Openly available resources related to Gravitational Wave Astronomy, Astrophysics, Cosmology etc 
 
-My name is Aditya Vijaykumar.
+- The [annual ICTS schools on Gravitational Wave Astronomy](https://www.icts.res.in/program/gws), being held yearly since 2013. Topics covered include GW detector science to data analysis to theoretical astrophsics. All lectures, problem sets, assignments are openly available.
 
-- I was born in **Perinthalmanna, Kerala** in 1995, but have lived in **Pune, Maharashtra** all my life.
+- [An introduction to Bayesian inference in gravitational-wave astronomy: parameter estimation, model selection, and hierarchical models](https://arxiv.org/abs/1809.02293) by Eric Thrane and Colm Talbot.
 
-- I currently reside in the city of **Bengaluru, Karnataka**, where I am pursuing my PhD in Physics at the [International Centre for Theoretical Sciences](https://icts.res.in/) (ICTS-TIFR). If you are ever in Bengaluru and want to break away from the hustle and bustle of the city, I suggest you visit our campus to enjoy our hospitality and also learn about some interesting science being done. ICTS also has a plethora of [public events](https://icts.res.in/outreach) which you could be interested in.
+- A [series of reviews](https://arxiv.org/search/advanced?advanced=1&terms-0-operator=AND&terms-0-term=data+analysis+recipes&terms-0-field=title&terms-1-operator=AND&terms-1-term=david+hogg&terms-1-field=author&classification-physics_archives=all&classification-include_cross_list=include&date-filter_by=all_dates&date-year=&date-from_date=&date-to_date=&date-date_type=submitted_date&abstracts=show&size=50&order=-announced_date_first) on *Data Analysis Recipes* by David Hogg and collaborators. These are extremely fun to read through, while also being highly illuminating about the very basics of things.
 
-- I was an undergraduate student at **Birla Institute of Technology and Science (BITS), Pilani**, where I had **Physics** and **Mechanical Engineering** as my majors. 
-
-- I work on various physics and astrophysics aspects of gravitational-waves. My work involves both theory and computation, as well as a deep understanding of experimental data from gravitational-wave detectors. More information about my research can be found [here](https://adivijaykumar.github.io/research/).
-
-- I also direct and act in stage-theatre productions with the theatre outfit ([Facebook](https://www.facebook.com/stagecraftncbs/) [Instagram](https://www.facebook.com/stagecraftncbs/)). I also like reading, and thinking about art of cinema. Check my [non-academic page](https://adivijaykumar.github.io/nonacademic/) for more.
+- [The Open Astrophysics Bookshelf](https://open-astrophysics-bookshelf.github.io/) contains a few full-length textbook-like documents on star formation, computational hydrodynamics etc. I have read the one on [Introduction to Computational Astrophysical Hydrodynamics](http://bender.astro.sunysb.edu/hydro_by_example/CompHydroTutorial.pdf) by Michael Zingale and it is fantastic.

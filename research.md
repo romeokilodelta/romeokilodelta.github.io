@@ -3,16 +3,28 @@ title: Research
 layout: page
 ---
 
-![Profile Image]({{ site.url }}/{{ site.picture }})
+I work on physics, astrophysics and data analysis aspects of gravitational waves. I also try to dabble in scientific computing now and then. My most updated CV can be found [here](https://github.com/adivijaykumar/resume/blob/master/resume.pdf).
 
-My name is Aditya Vijaykumar.
+If you want to have questions/comments about my work or the field in general, please do not hesitate to contact me at aditya [dot] vijaykumar [at] icts [dot] res [dot] in.
 
-- I was born in **Perinthalmanna, Kerala** in 1995, but have lived in **Pune, Maharashtra** all my life.
+A list of my papers can be found below. I have done a twitter thread accessible to non-experts for each of my released short author papers, and plan to keep doing this :)
 
-- I currently reside in the city of **Bengaluru, Karnataka**, where I am pursuing my PhD in Physics at the [International Centre for Theoretical Sciences](https://icts.res.in/) (ICTS-TIFR). If you are ever in Bengaluru and want to break away from the hustle and bustle of the city, I suggest you visit our campus to enjoy our hospitality and also learn about some interesting science being done. ICTS also has a plethora of [public events](https://icts.res.in/outreach) which you could be interested in.
+## Short Authorlist Papers
 
-- I was an undergraduate student at **Birla Institute of Technology and Science (BITS), Pilani**, where I had **Physics** and **Mechanical Engineering** as my majors. 
+- **Aditya Vijaykumar** MV Saketh, Sumit Kumar, Parameswaran Ajith, Tirthankar Roy Choudhury.
+	*Probing the cosmological large-scale structure using gravitational-wave observations*
+	[arXiv](https://arxiv.org/abs/2005.01111), [Twitter Thread](https://twitter.com/alsogoesbyV/status/1257520110853476358), [Astrobites Article](https://astrobites.org/2020/05/07/binary-black-holes-tangled-up-in-the-cosmic-web/).
 
-- I work on various physics and astrophysics aspects of gravitational-waves. My work involves both theory and computation, as well as a deep understanding of experimental data from gravitational-wave detectors. More information about my research can be found [here](https://adivijaykumar.github.io/research/).
+- **Aditya Vijaykumar**, Shasvath J. Kapadia, Parameswaran Ajith
+	*Constraints on the time variation of the gravitational constant using gravitational wave observations of binary neutron stars*
+	[arXiv](https://arxiv.org/abs/2003.12382), [Twitter Thread](https://twitter.com/alsogoesbyV/status/1244833975920513024).
 
-- I also direct and act in stage-theatre productions with the theatre outfit ([Facebook](https://www.facebook.com/stagecraftncbs/) [Instagram](https://www.facebook.com/stagecraftncbs/)). I also like reading, and thinking about art of cinema. Check my [non-academic page](https://adivijaykumar.github.io/nonacademic/) for more.
+## Long Authorlist Papers with Considerable Contribution
+
+- None yet but soon!
+
+## Other Papers
+
+- P. Virtanen *et al.* (including **Aditya Vijaykumar** as *SciPy 1.0 Contributor*)
+	*SciPy 1.0--Fundamental Algorithms for Scientific Computing in Python*
+	[arXiv](https://arxiv.org/abs/1907.10121), [Journal](https://www.nature.com/articles/s41592-019-0686-2).
