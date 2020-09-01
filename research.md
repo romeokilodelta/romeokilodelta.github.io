@@ -2,6 +2,8 @@
 title: Research
 layout: page
 ---
+# Research
+
 
 I work on physics, astrophysics and data analysis aspects of gravitational waves. I also try to dabble in scientific computing now and then. My most updated CV can be found [here](https://github.com/adivijaykumar/resume/blob/master/resume.pdf).
 
@@ -11,13 +13,13 @@ A list of my papers can be found below. I have done a twitter thread accessible 
 
 ## Short Authorlist Papers
 
-- **Aditya Vijaykumar**, MV Saketh, Sumit Kumar, Parameswaran Ajith, Tirthankar Roy Choudhury, *Probing the cosmological large-scale structure using gravitational-wave observations*.
+- **Aditya Vijaykumar**, MV Saketh, Sumit Kumar, Parameswaran Ajith, Tirthankar Roy Choudhury, *Probing the large scale structure using gravitational-wave observations of binary black holes*.
 
 	[arXiv](https://arxiv.org/abs/2005.01111), [Twitter Thread](https://twitter.com/alsogoesbyV/status/1257520110853476358), [Astrobites Article](https://astrobites.org/2020/05/07/binary-black-holes-tangled-up-in-the-cosmic-web/).
 
 - **Aditya Vijaykumar**, Shasvath J. Kapadia, Parameswaran Ajith, *Constraints on the time variation of the gravitational constant using gravitational wave observations of binary neutron stars*.
 
-	[arXiv](https://arxiv.org/abs/2003.12382), [Twitter Thread](https://twitter.com/alsogoesbyV/status/1244833975920513024).
+	[arXiv](https://arxiv.org/abs/2003.12832), [Twitter Thread](https://twitter.com/alsogoesbyV/status/1244833975920513024).
 
 ## Long Authorlist Papers with Considerable Contribution
 

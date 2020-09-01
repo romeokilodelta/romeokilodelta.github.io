@@ -2,6 +2,8 @@
 title: Resources
 layout: page
 ---
+# Resources
+
 
 ## Openly available resources related to Gravitational Wave Astronomy, Astrophysics, Cosmology etc 
 
