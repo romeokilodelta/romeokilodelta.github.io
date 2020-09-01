@@ -4,7 +4,7 @@ layout: page
 ---
 # About
 
-
+	
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 My name is Aditya Vijaykumar.
@@ -17,4 +17,4 @@ My name is Aditya Vijaykumar.
 
 - I work on various physics and astrophysics aspects of gravitational waves. My work involves both theory and computation, as well as an understanding of experimental data from gravitational-wave detectors. More information about my research can be found [here](https://adivijaykumar.github.io/research/).
 
-- Apart from academic research, I also direct and act in stage-theatre productions with the theatre outfit StageCraft ([Facebook](https://www.facebook.com/stagecraftncbs/) [Instagram](https://www.facebook.com/stagecraftncbs/)). I also run a weekly podcast called [Cut to Scene](linktr.ee/cuttoscene) where a friend and I discuss films. Check my [non-academic page](https://adivijaykumar.github.io/nonacademic/) for more.
+- Apart from academic research, I also direct and act in stage-theatre productions with the theatre outfit StageCraft ([Facebook](https://www.facebook.com/stagecraftncbs/) [Instagram](https://www.facebook.com/stagecraftncbs/)). I also run a weekly podcast called [Cut to Scene](https://linktr.ee/cuttoscene) where a friend and I discuss films. Check my [non-academic page](https://adivijaykumar.github.io/nonacademic/) for more.
