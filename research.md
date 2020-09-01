@@ -5,6 +5,8 @@ layout: page
 # Research
 
 <img src="https://imgs.xkcd.com/comics/gravitational_waves.png" alt="xkcd on gravitational waves">
+->*Image Source: [xkcd comics](https://xkcd.com/1642/)*<-
+
 
 I work on physics, astrophysics and data analysis aspects of gravitational waves. I also try to dabble in scientific computing now and then. My most updated CV can be found [here](https://github.com/adivijaykumar/resume/blob/master/resume.pdf).
 
