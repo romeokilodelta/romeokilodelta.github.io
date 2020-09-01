@@ -5,7 +5,7 @@ layout: page
 # Research
 
 <img src="https://imgs.xkcd.com/comics/gravitational_waves.png" alt="xkcd on gravitational waves">
-<div style="text-align:center"><span><b>Image Source</b>: <a href="https://xkcd.com/1642/"><i>xkcd Comics</i></a>. <i>Explanation <a href="https://www.explainxkcd.com/wiki/index.php/1642:_Gravitational_Waves">here</i></a>.</span></div>
+<div style="text-align:center"><span><b>Image Source</b>: <a href="https://xkcd.com/1642/"><i>xkcd Comics</i></a>. <i>Explanation <a href="https://www.explainxkcd.com/wiki/index.php/1642:_Gravitational_Waves">here</a></i>.</span></div>
 
 
 
