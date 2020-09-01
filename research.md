@@ -7,7 +7,7 @@ layout: page
 
 I work on physics, astrophysics and data analysis aspects of gravitational waves. I also try to dabble in scientific computing now and then. My most updated CV can be found [here](https://github.com/adivijaykumar/resume/blob/master/resume.pdf).
 
-If you want to have questions/comments about my work or the field in general, please do not hesitate to contact me at aditya [dot] vijaykumar [at] icts [dot] res [dot] in.
+If you have questions/comments about my work or the field in general, please do not hesitate to contact me at aditya [dot] vijaykumar [at] icts [dot] res [dot] in.
 
 A list of my papers can be found below. I have done a twitter thread accessible to non-experts for each of my released short author papers, and plan to keep doing this :)
 
