@@ -31,6 +31,6 @@ A list of my papers can be found below, and also on [INSPIRE](https://inspirehep
 
 ## Other Papers
 
-- P. Virtanen *et al.* (including **Aditya Vijaykumar** as *SciPy 1.0 Contributor*), *SciPy 1.0--Fundamental Algorithms for Scientific Computing in Python*.
-
+- P. Virtanen *et al.* (including **Aditya Vijaykumar** as *SciPy 1.0 Contributor*)  
+ 	*SciPy 1.0--Fundamental Algorithms for Scientific Computing in Python*.  
 	[arXiv](https://arxiv.org/abs/1907.10121), [Journal](https://www.nature.com/articles/s41592-019-0686-2).
