@@ -7,7 +7,7 @@ layout: page
 
 ## Openly available resources related to Gravitational Wave Astronomy, Astrophysics, Cosmology etc 
 
-- The [annual ICTS schools on Gravitational Wave Astronomy](https://www.icts.res.in/program/gws), being held yearly since 2013. Topics covered include GW detector science to data analysis to theoretical astrophsics. All lectures, problem sets, assignments are openly available.
+- The [annual ICTS schools on Gravitational Wave Astronomy](https://www.icts.res.in/program/gws), being held yearly since 2013. Topics covered include GW detector science to data analysis to theoretical astrophysics. All lectures, problem sets, assignments are openly available.
 
 - [An introduction to Bayesian inference in gravitational-wave astronomy: parameter estimation, model selection, and hierarchical models](https://arxiv.org/abs/1809.02293) by Eric Thrane and Colm Talbot.
 
