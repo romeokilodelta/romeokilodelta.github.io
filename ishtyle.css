@@ -90,11 +90,12 @@ li a {
 li a:hover {
 }
 
-a:link {
-  color: black;
+
+/*a:link {
+  color: #800000;
   background-color: transparent;
   text-decoration: none;
-}
+}*/
 
 /*a:visited {
   color: #696969;
@@ -148,23 +149,23 @@ hr {
 }
 
 .fa-facebook {
-  color: grey;
+  color: black;
 }
 
 .fa-twitter {
-  color: grey;
+  color: black;
 }
 
 .fa-github {
-  color: grey;
+  color: black;
 }
 
 .fa-instagram {
-  color: grey;
+  color: black;
 }
 
 .fa-envelope {
-  color: grey;
+  color: black;
 }
 
 .fade-in {
