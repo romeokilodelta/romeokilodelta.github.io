@@ -60,7 +60,7 @@ body {
 	padding-top: 20px;
 	padding-bottom: 50px; 
 	font-size:15px;
-	color: #800000;
+	color: grey;
   	text-align: center;
 }
 
@@ -76,27 +76,25 @@ ul {
 
 li {
 	display: inline;
-	color: #800000;
+	color: #b32033;
 	padding: 20px;
 }
 
 li a {
   display: inline-block;
-	color: #800000;
-	padding: 5px;
+	color: #b32033;
+	padding:0.1%;
 	text-decoration: none;
 }
 
 li a:hover {
-	font-weight:bold;
 }
 
-
-/*a:link {
-  color: #800000;
+a:link {
+  color: black;
   background-color: transparent;
   text-decoration: none;
-}*/
+}
 
 /*a:visited {
   color: #696969;
@@ -131,8 +129,8 @@ hr {
   	clear:both;
   	display:block;
 	background-color:#f1f1f1;
-	width:80%;
-	border:1px solid black;
+	width:600px;
+	border:1px solid lightgrey;
 	border-radius: 0.5px;
 }
 
@@ -142,7 +140,7 @@ hr {
   	text-align: center;
   	text-decoration: none;
   	margin: 5px 2px;
-	padding: 2.5%;	
+	padding: 2.5% 2px 2.5% 2px;	
 }
 
 .fa:hover {
@@ -165,7 +163,7 @@ hr {
   color: grey;
 }
 
-.fa-paper-plane {
+.fa-envelope {
   color: grey;
 }
 
