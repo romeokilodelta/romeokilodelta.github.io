@@ -1,0 +1,222 @@
+html {
+    height: 100vh;
+}
+
+body { 
+  margin: 0;
+  background-color: white;
+  font-family: "Arial";
+	height: 100%;
+}
+
+.container {
+	margin: auto;
+ 	display: table;
+	width: 80%;
+	padding-top: 3%;
+}
+
+.postbox {
+	box-sizing: border-box;
+ 	display: table-row;
+	padding-bottom: 20px;
+	width: 100%;  
+	font-size:20px;
+	color: #696969;
+	line-height: 28px;
+}
+
+.posttext {
+	padding: 2.5%;
+}
+
+.icons {
+  	display: table-row;
+	width: 100%; 
+	height: 50px; 
+	padding:10px;
+	font-size:20px;
+	color: white;
+  	text-align: center;
+}
+
+.menu {
+  	display: table-row;
+	width: 100%; 
+	height: 20%; 
+	padding: 20px;
+	font-size:20px;
+	color: #800000;
+  	text-align: center;
+}
+
+.menutext { 
+	padding: 2.5%;
+}
+
+.cright {
+  	display: table;
+	width: 100%; 
+	padding-top: 20px;
+	padding-bottom: 50px; 
+	font-size:15px;
+	color: #800000;
+  	text-align: center;
+}
+
+img {
+  border-radius: 50%;
+}
+
+ul {
+  display: inline;
+  width: 100px;
+  padding: 10px;
+}
+
+li {
+	display: inline;
+	color: #800000;
+	padding: 20px;
+}
+
+li a {
+  display: inline-block;
+	color: #800000;
+	padding: 5px;
+	text-decoration: none;
+}
+
+li a:hover {
+	font-weight:bold;
+}
+
+
+/*a:link {
+  color: #800000;
+  background-color: transparent;
+  text-decoration: none;
+}*/
+
+/*a:visited {
+  color: #696969;
+  background-color: transparent;
+  text-decoration: underlined;
+}*/
+
+/*a:hover {
+  color: #800000;
+  background-color: transparent;
+
+}*/
+
+/*a:active {
+  color: #f1f1f1;
+  background-color: transparent;
+}*/
+
+.centbox {
+	text-align: center;
+}
+
+.leftbox {
+	text-align: center;
+}
+
+.rightbox {
+	text-align: center;
+}
+
+hr {
+  	clear:both;
+  	display:block;
+	background-color:#f1f1f1;
+	width:80%;
+	border:1px solid black;
+	border-radius: 0.5px;
+}
+
+.fa {
+  	font-size: 15px;
+  	width: 50px;
+  	text-align: center;
+  	text-decoration: none;
+  	margin: 5px 2px;
+	padding: 2.5%;	
+}
+
+.fa:hover {
+    opacity: 0.7;
+}
+
+.fa-facebook {
+  color: grey;
+}
+
+.fa-twitter {
+  color: grey;
+}
+
+.fa-github {
+  color: grey;
+}
+
+.fa-instagram {
+  color: grey;
+}
+
+.fa-paper-plane {
+  color: grey;
+}
+
+.fade-in {
+  animation: fadeIn ease 2s;
+  -webkit-animation: fadeIn ease 2s;
+  -moz-animation: fadeIn ease 2s;
+  -o-animation: fadeIn ease 2s;
+  -ms-animation: fadeIn ease 2s;
+}
+@keyframes fadeIn {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+@-moz-keyframes fadeIn {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+@-webkit-keyframes fadeIn {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+@-o-keyframes fadeIn {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+}
+
+@-ms-keyframes fadeIn {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+}
+
