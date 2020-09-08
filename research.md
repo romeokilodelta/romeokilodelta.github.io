@@ -25,7 +25,7 @@ A list of my papers can be found below, and also on [INSPIRE](https://inspirehep
 	*Constraints on the time variation of the gravitational constant using gravitational wave observations of binary neutron stars*.  
 	[arXiv](https://arxiv.org/abs/2003.12832), [Twitter Thread](https://twitter.com/alsogoesbyV/status/1244833975920513024).
 
-## Long Authorlist Papers with Considerable Contribution
+## Long Authorlist Papers with Direct Contribution
 
 - None yet but soon!
 
