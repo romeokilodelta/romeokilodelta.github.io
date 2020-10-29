@@ -28,11 +28,11 @@ A list of my papers can be found below, and also on [INSPIRE](https://inspirehep
 ## Long Authorlist Papers with Direct Contribution
 
 - Abbott *et al.* (LIGO Scientific and Virgo Collaborations, including **Aditya Vijaykumar**)  
-    *GWTC-2: Compact Binary Coalescences Observed by LIGO and Virgo During the First Half of the Third Observing Run*.
+    *GWTC-2: Compact Binary Coalescences Observed by LIGO and Virgo During the First Half of the Third Observing Run*.  
     [arXiv](https://arxiv.org/abs/2010.14527).
 
 - Abbott *et al.* (LIGO Scientific and Virgo Collaborations, including **Aditya Vijaykumar**)  
-    *Tests of General Relativity with Binary Black Holes from the second LIGO-Virgo Gravitational-Wave Transient Catalog*.
+    *Tests of General Relativity with Binary Black Holes from the second LIGO-Virgo Gravitational-Wave Transient Catalog*.  
     [arXiv](https://arxiv.org/abs/2010.14529).
 
 ## Other Papers
