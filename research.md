@@ -23,7 +23,7 @@ A list of my papers can be found below, and also on [INSPIRE](https://inspirehep
 
 - **Aditya Vijaykumar**, Shasvath J. Kapadia, Parameswaran Ajith  
 	*Constraints on the time variation of the gravitational constant using gravitational wave observations of binary neutron stars*.  
-	[arXiv](https://arxiv.org/abs/2003.12832), [Twitter Thread](https://twitter.com/alsogoesbyV/status/1244833975920513024).
+	[arXiv](https://arxiv.org/abs/2003.12832), [Journal](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.141104), [Twitter Thread](https://twitter.com/alsogoesbyV/status/1244833975920513024).
 
 ## Long Authorlist Papers with Direct Contribution
 
