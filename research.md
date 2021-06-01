@@ -27,8 +27,8 @@ A list of my papers can be found below, and also on [INSPIRE](https://inspirehep
 
 ## Long Authorlist Papers with Direct and Substantial Contribution
 
-- M. Saleem *et al.* (including **Aditya Vijaykumar**)
-	*The Science Case for LIGO-India*
+- M. Saleem *et al.* (including **Aditya Vijaykumar**)  
+	*The Science Case for LIGO-India*  
 	[arXiv](https://arxiv.org/abs/2105.01716), [Twitter Thread](https://twitter.com/alsogoesbyV/status/1390167066372501512?s=20).
 
 - Abbott *et al.* (LIGO Scientific and Virgo Collaborations, including **Aditya Vijaykumar**)  
