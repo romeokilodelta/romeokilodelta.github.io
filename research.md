@@ -23,7 +23,7 @@ A list of my papers can be found below, and also on [INSPIRE](https://inspirehep
 
 - **Aditya Vijaykumar**, Shasvath J. Kapadia, Parameswaran Ajith  
 	*Constraints on the time variation of the gravitational constant using gravitational wave observations of binary neutron stars*.  
-	[arXiv](https://arxiv.org/abs/2003.12832), [Journal](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.141104), [Twitter Thread](https://twitter.com/alsogoesbyV/status/1244833975920513024), [phys.org Article](https://phys.org/news/2021-05-constraints-variation-gravitational-constant.html).
+	[arXiv](https://arxiv.org/abs/2003.12832), [Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.141104), [Twitter Thread](https://twitter.com/alsogoesbyV/status/1244833975920513024), [phys.org Article](https://phys.org/news/2021-05-constraints-variation-gravitational-constant.html).
 
 ## Long Authorlist Papers with Direct and Substantial Contribution
 
@@ -43,4 +43,4 @@ A list of my papers can be found below, and also on [INSPIRE](https://inspirehep
 
 - P. Virtanen *et al.* (including **Aditya Vijaykumar** as *SciPy 1.0 Contributor*)  
  	*SciPy 1.0--Fundamental Algorithms for Scientific Computing in Python*.  
-	[arXiv](https://arxiv.org/abs/1907.10121), [Journal](https://www.nature.com/articles/s41592-019-0686-2).
+	[arXiv](https://arxiv.org/abs/1907.10121), [Nat. Methods](https://www.nature.com/articles/s41592-019-0686-2).
