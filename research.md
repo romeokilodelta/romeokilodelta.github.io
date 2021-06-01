@@ -13,7 +13,7 @@ I work on physics, astrophysics and data analysis aspects of gravitational waves
 
 If you have questions/comments about my work or the field in general, please do not hesitate to contact me at aditya [dot] vijaykumar [at] icts [dot] res [dot] in.
 
-A list of my papers can be found below, and also on [INSPIRE](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20A.Vijaykumar.1%20&ui-citation-summary=true), [arXiv](https://arxiv.org/a/vijaykumar_a_1.html). I have done a twitter thread accessible to non-experts for each of my released short author papers, and plan to keep doing this :)
+A list of my papers can be found below, and also on [INSPIRE](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20A.Vijaykumar.1%20&ui-citation-summary=true), [arXiv](https://arxiv.org/a/vijaykumar_a_1.html). I have done a twitter thread accessible to non-experts for each of my released short author papers (and some long author ones), and plan to keep doing this :)
 
 ## Short Authorlist Papers
 
@@ -23,9 +23,13 @@ A list of my papers can be found below, and also on [INSPIRE](https://inspirehep
 
 - **Aditya Vijaykumar**, Shasvath J. Kapadia, Parameswaran Ajith  
 	*Constraints on the time variation of the gravitational constant using gravitational wave observations of binary neutron stars*.  
-	[arXiv](https://arxiv.org/abs/2003.12832), [Journal](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.141104), [Twitter Thread](https://twitter.com/alsogoesbyV/status/1244833975920513024).
+	[arXiv](https://arxiv.org/abs/2003.12832), [Journal](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.141104), [Twitter Thread](https://twitter.com/alsogoesbyV/status/1244833975920513024), [phys.org Article](https://phys.org/news/2021-05-constraints-variation-gravitational-constant.html).
 
-## Long Authorlist Papers with Direct Contribution
+## Long Authorlist Papers with Direct and Substantial Contribution
+
+- M. Saleem *et al.* (including **Aditya Vijaykumar**)
+	*The Science Case for LIGO-India*
+	[arXiv](https://arxiv.org/abs/2105.01716), [Twitter Thread](https://twitter.com/alsogoesbyV/status/1390167066372501512?s=20).
 
 - Abbott *et al.* (LIGO Scientific and Virgo Collaborations, including **Aditya Vijaykumar**)  
     *GWTC-2: Compact Binary Coalescences Observed by LIGO and Virgo During the First Half of the Third Observing Run*.  
