@@ -17,19 +17,24 @@ A list of my papers can be found below, and also on [INSPIRE](https://inspirehep
 
 ## Short Authorlist Papers
 
+- Sumit Kumar, **Aditya Vijaykumar**, Alexander H. Nitz  
+	*Detecting Baryon Acoustic Oscillations with third generation gravitational wave observatories*.  
+	[arXiv](https://arxiv.org/abs/2110.06152).
+
+
 - **Aditya Vijaykumar**, MV Saketh, Sumit Kumar, Parameswaran Ajith, Tirthankar Roy Choudhury  
 	*Probing the large scale structure using gravitational-wave observations of binary black holes*.  
 	[arXiv](https://arxiv.org/abs/2005.01111), [Twitter Thread](https://twitter.com/alsogoesbyV/status/1257520110853476358), [Astrobites Article](https://astrobites.org/2020/05/07/binary-black-holes-tangled-up-in-the-cosmic-web/).
+
+- M. Saleem *et al.* (including **Aditya Vijaykumar**)  
+	*The Science Case for LIGO-India*  
+	[arXiv](https://arxiv.org/abs/2105.01716), [Twitter Thread](https://twitter.com/alsogoesbyV/status/1390167066372501512?s=20).
 
 - **Aditya Vijaykumar**, Shasvath J. Kapadia, Parameswaran Ajith  
 	*Constraints on the time variation of the gravitational constant using gravitational wave observations of binary neutron stars*.  
 	[arXiv](https://arxiv.org/abs/2003.12832), [Phys. Rev. Lett.](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.126.141104), [Twitter Thread](https://twitter.com/alsogoesbyV/status/1244833975920513024), [phys.org Article](https://phys.org/news/2021-05-constraints-variation-gravitational-constant.html).
 
 ## Long Authorlist Papers with Direct and Substantial Contribution
-
-- M. Saleem *et al.* (including **Aditya Vijaykumar**)  
-	*The Science Case for LIGO-India*  
-	[arXiv](https://arxiv.org/abs/2105.01716), [Twitter Thread](https://twitter.com/alsogoesbyV/status/1390167066372501512?s=20).
 
 - Abbott *et al.* (LIGO Scientific and Virgo Collaborations, including **Aditya Vijaykumar**)  
     *GWTC-2: Compact Binary Coalescences Observed by LIGO and Virgo During the First Half of the Third Observing Run*.  
