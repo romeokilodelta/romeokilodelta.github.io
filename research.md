@@ -19,11 +19,11 @@ A list of my papers can be found below, and also on [INSPIRE](https://inspirehep
 
 - **Aditya Vijaykumar**, Shasvath J. Kapadia, Parameswaran Ajith
 	*Can a binary neutron star merger in the vicinity of a supermassive black hole enable a detection of a post-merger gravitational wave signal?*
-	[arXiv]{https://arxiv.org/abs/2202.08673}.
+	[arXiv](https://arxiv.org/abs/2202.08673).
 
 - **Aditya Vijaykumar**, Ajit Kumar Mehta, Apratim Ganguly
 	*Detection and parameter estimation challenges of Type-II lensed binary black hole signals*
-	[arXiv]{https://arxiv.org/abs/2202.06334}.
+	[arXiv](https://arxiv.org/abs/2202.06334).
 
 - Sumit Kumar, **Aditya Vijaykumar**, Alexander H. Nitz  
 	*Detecting Baryon Acoustic Oscillations with third generation gravitational wave observatories*.  
