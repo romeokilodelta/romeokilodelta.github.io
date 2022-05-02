@@ -9,7 +9,7 @@ layout: page
 
 <br/>
 
-I work on physics, astrophysics and data analysis aspects of gravitational waves. I also try to dabble in scientific computing now and then. My most updated CV can be found [here](https://github.com/adivijaykumar/resume/blob/master/resume.pdf).
+I work on physics, astrophysics and data analysis aspects of gravitational waves. I also try to dabble in scientific computing now and then. My most updated CV can be found [here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/adivijaykumar/resume/master/resume.pdf).
 
 If you have questions/comments about my work or the field in general, please do not hesitate to contact me at aditya [dot] vijaykumar [at] icts [dot] res [dot] in.
 
