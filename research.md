@@ -9,13 +9,16 @@ layout: page
 
 <br/>
 
-I work on physics, astrophysics and data analysis aspects of gravitational waves. I also try to dabble in scientific computing now and then. My most updated CV can be found [here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/adivijaykumar/resume/master/resume.pdf).
+I work on physics, astrophysics and data analysis aspects of gravitational waves. I also try to dabble in scientific computing now and then. My most updated CV can be found [here](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/adivijaykumar/resume/master/Vijaykumar_CV_with_pubs.pdf).
 
 If you have questions/comments about my work or the field in general, please do not hesitate to contact me at aditya [dot] vijaykumar [at] icts [dot] res [dot] in.
 
 A list of my papers can be found below, and also on [INSPIRE](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20A.Vijaykumar.1%20&ui-citation-summary=true), [arXiv](https://arxiv.org/a/vijaykumar_a_1.html). I have done a twitter thread accessible to non-experts for some of my released papers, linked below.
 
 ## Short Authorlist Papers
+- Bikram Keshari Pradhan, **Aditya Vijaykumar**, Debarati Chatterjee  
+	*Impact of updated Multipole Love and f-Love Universal Relations in context of Binary Neutron Stars*.  
+	[arXiv](https://arxiv.org/abs/2210.09425).
 
 - **Aditya Vijaykumar**, Shasvath J. Kapadia, Parameswaran Ajith  
 	*Can a binary neutron star merger in the vicinity of a supermassive black hole enable a detection of a post-merger gravitational wave signal?*.  
