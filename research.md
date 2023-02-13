@@ -13,7 +13,7 @@ I work on physics, astrophysics and data analysis aspects of gravitational waves
 
 If you have questions/comments about my work or the field in general, please do not hesitate to contact me at aditya [dot] vijaykumar [at] icts [dot] res [dot] in.
 
-A list of my papers can be found below, and also on [INSPIRE](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20A.Vijaykumar.1%20&ui-citation-summary=true), [arXiv](https://arxiv.org/a/vijaykumar_a_1.html). I have done a twitter thread accessible to non-experts for some of my released papers, linked below.
+A list of my papers can be found below, and also on [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/LqJDfKCTTdeuL_Inb7SwVw), [arXiv](https://arxiv.org/a/vijaykumar_a_1.html). I have done a twitter thread accessible to non-experts for some of my released papers, linked below.
 
 ## Short Authorlist Papers
 - Bikram Keshari Pradhan, **Aditya Vijaykumar**, Debarati Chatterjee  
