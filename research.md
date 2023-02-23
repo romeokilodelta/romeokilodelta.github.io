@@ -16,6 +16,18 @@ If you have questions/comments about my work or the field in general, please do 
 A list of my papers can be found below, and also on [NASA ADS](https://ui.adsabs.harvard.edu/public-libraries/LqJDfKCTTdeuL_Inb7SwVw), [arXiv](https://arxiv.org/a/vijaykumar_a_1.html). I have done a twitter thread accessible to non-experts for some of my released papers, linked below.
 
 ## Short Authorlist Papers
+- **Aditya Vijaykumar**, Avinash Tiwari, Shasvath J. Kapadia, K.G. Arun, Parameswaran Ajith
+	*Waltzing binaries: Probing line-of-sight acceleration of merging compact objects with gravitational waves*
+	[arXiv](https://arxiv.org/abs/2302.09651)
+
+- Adhrit Ravichandran, **Aditya Vijaykumar**, Shasvath J. Kapadia, Prayush Kumar
+	*Rapid Identification and Classification of Eccentric Gravitational Wave Inspirals with Machine Learning*.
+	[arXiv](https://arxiv.org/abs/2302.00666)
+
+- Srashti Goyal, **Aditya Vijaykumar**, Jose María Ezquiaga, Miguel Zumalacárregui
+	*Probing lens-induced gravitational-wave birefringence as a test of general relativity*.
+	[arXiv](https://arxiv.org/abs/2301.04826)
+
 - Bikram Keshari Pradhan, **Aditya Vijaykumar**, Debarati Chatterjee  
 	*Impact of updated Multipole Love and f-Love Universal Relations in context of Binary Neutron Stars*.  
 	[arXiv](https://arxiv.org/abs/2210.09425).
