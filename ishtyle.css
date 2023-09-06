@@ -233,3 +233,76 @@ p {
     opacity:1;
 }
 
+/* CSS for Desktop */
+
+/* Your existing desktop CSS rules go here */
+
+/* CSS for Mobile */
+
+@media screen and (max-width: 768px) {
+  html {
+    height: auto; /* Remove fixed height */
+  }
+
+  body {
+    font-size: 14px; /* Decrease font size for mobile */
+  }
+
+  .container {
+    width: 100%; /* Make the container full-width */
+    padding: 5% 2%; /* Adjust padding for smaller screens */
+  }
+
+  .postbox {
+    padding-bottom: 10px; /* Reduce padding for posts */
+    font-size: 18px; /* Adjust post text font size */
+    line-height: 24px; /* Adjust line height for readability */
+  }
+
+  .posttext {
+    padding: 1%; /* Reduce padding for post text */
+  }
+
+  .icons, .menu {
+    height: auto; /* Allow content to determine height */
+    padding: 5px; /* Adjust padding for icons and menu */
+  }
+
+  .menu {
+    font-size: 18px; /* Adjust menu font size */
+  }
+
+  .menutext {
+    padding: 1%; /* Reduce padding for menu text */
+  }
+
+  .cright {
+    padding-top: 10px; /* Reduce padding for copyright */
+  }
+
+  img {
+    max-width: 100%; /* Ensure images fit within their containers */
+  }
+
+  ul {
+    display: block; /* Adjust the display for lists */
+  }
+
+  li {
+    display: block; /* Adjust the display for list items */
+    padding: 10px 0; /* Adjust list item padding */
+  }
+
+  .fa {
+    font-size: 18px; /* Adjust icon size */
+  }
+
+  hr {
+    width: 100%; /* Make horizontal rule full-width */
+  }
+
+  p {
+    font-size: 14px; /* Adjust paragraph font size */
+  }
+}
+
