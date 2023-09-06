@@ -4,8 +4,8 @@ html {
 
 body { 
   margin: 0;
-  background-color: white;
-  font-family: "-apple-system, BlinkMacSystemFont, sans-serif";
+  background-color: grey;
+  font-family: Courier, monospace;
 	height: 100%;
   font-size: 16px;
 }
