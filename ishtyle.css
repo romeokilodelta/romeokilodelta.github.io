@@ -178,6 +178,10 @@ p {
   color: black;
 }
 
+.fa-linkedin {
+	color: black;
+}
+
 .fade-in {
   animation: fadeIn ease 2s;
   -webkit-animation: fadeIn ease 2s;
