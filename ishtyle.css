@@ -10,6 +10,13 @@ body {
   font-size: 16px;
 }
 
+.background {
+  background-image: url('webpagebackground.jpg');
+  background-position: center;
+  background-size: cover;
+  overflow: hidden;
+}
+
 .container {
 	margin: auto;
  	display: table;
