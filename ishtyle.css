@@ -11,11 +11,10 @@ body {
 }
 
 .background {
-  background-image: url('webpagebackground.jpg');
+  background-image: url('GWBG.gif');
   background-position: center;
   background-size: cover;
   overflow: hidden;
-  opacity:0.5;
 }
 
 .container {
