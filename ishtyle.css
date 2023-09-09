@@ -140,7 +140,7 @@ hr {
   	display:block;
 	background-color:#f1f1f1;
 	width:900px;
-	border:1px solid black;
+	border:1px solid white;
 	border-radius: 0.5px;
 }
 
@@ -166,11 +166,11 @@ p {
 }
 
 .fa-twitter {
-  color: black;
+  color: white;
 }
 
 .fa-github {
-  color: black;
+  color: white;
 }
 
 .fa-gitlab {
@@ -182,11 +182,11 @@ p {
 }
 
 .fa-envelope {
-  color: black;
+  color: white;
 }
 
 .fa-linkedin {
-	color: black;
+	color: white;
 }
 
 .fade-in {
