@@ -4,7 +4,7 @@ html {
 
 body { 
   margin: 0;
-  /*background-color: lightgray;*/
+  background-color: rgba(255, 255, 255, 0.7);
   font-family: Courier, monospace;
 	height: 100%;
   font-size: 16px;
