@@ -9,7 +9,7 @@ body {
 	height: 100%;
   font-size: 16px;
 }
-body::before {
+body::before{
     background-image: url('webpagebackground.jpg'); /* Replace 'your-image.jpg' with the path to your image */
     background-size: cover; /* Ensures the image covers the entire viewport */
     background-attachment: fixed; /* Makes the background image fixed */
